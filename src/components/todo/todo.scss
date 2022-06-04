@@ -1,0 +1,31 @@
+.newItemContainer {
+    margin-top: 20px;
+}
+
+.buttonsTodo {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+.todoTask {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.todoTaskImportant {
+    color: red;
+    font-weight: bold;
+    margin-right: 10px;
+    text-decoration: line-through;
+    text-decoration-color: black;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.form-control {
+    width: 50%;
+}
